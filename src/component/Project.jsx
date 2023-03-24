@@ -17,10 +17,10 @@ export default function Project() {
                         <div className="row">
                             <motion.div animate={{ borderRadius: 10 }} whileHover={{ scale: 1.1, borderRadius: 15 }} className="project col-xl-4 col-lg-5 col-md-8">
                                 <div className="proj_items_wraper">
-                                    <a href="https://arnabto.github.io/portfolio1.0.github.io/" className="effect">
+                                    <a href="https://github.com/ArnabTo/portfolio3.0" className="effect">
                                         <div className="project_details">
                                             <div className="project_name">
-                                                <u>portfolio1.0.github.io</u>
+                                                <u>portfolio3.0</u>
                                             </div>
                                             <div className="made_with">
                                                 <motion.span animate={{ borderRadius: 10 }}>HTML</motion.span>
